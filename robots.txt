@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sjw1980.github.io/webppom-vibe-demo/sitemap.xml
